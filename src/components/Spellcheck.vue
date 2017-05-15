@@ -40,8 +40,6 @@ export default {
 
       const tokens = response.data.flaggedTokens;
 
-      console.log(response);
-
       if (tokens.length === 0) {
         return this.text;
       }
