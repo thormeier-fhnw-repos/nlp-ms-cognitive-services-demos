@@ -14,8 +14,13 @@ Clone this repository and execute the following:
 Make sure to register on the Microsoft azure page and replace the `YOUR KEY HERE` placeholders 
 with your actual keys.
 
-Slides
+Slides and summarisation
 -
 
-The slides are in `slides.pdf`. All images belong to their respective owner. All resurces used 
-are purely for educational purposes. The code itself is published under MIT.
+* Slides: [doc/slides.pdf](https://github.com/thormeier-fhnw-repos/nlp-ms-cognitive-services-demos/tree/master/doc/slides.pdf)
+* Summarisation: [doc/summarisation.pdf](https://github.com/thormeier-fhnw-repos/nlp-ms-cognitive-services-demos/tree/master/doc/summarisation.pdf)
+
+Disclaimer
+-
+All images belong to their respective owner. All resurces used are purely for educational purposes. 
+The code itself is published under MIT.
