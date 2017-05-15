@@ -28,13 +28,7 @@
           'YOUR KEY HERE',
         ],
         text: 'Some text',
-        analysis: {
-          language: {
-            name: 'Unknown',
-            score: 0.0,
-          },
-          sentiment: 0.5,
-        },
+        analysis: '',
         isLoading: false,
       };
     },
